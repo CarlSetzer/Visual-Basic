@@ -1,0 +1,12 @@
+C:\Users\Carl Setzer\OneDrive\EdCC\CS 115\Lab 2\Lab 2 - Payroll Calculator\Lab 2 - Payroll Calculator\obj\Debug\Lab 2 - Payroll Calculator.vbprojAssemblyReference.cache
+C:\Users\Carl Setzer\OneDrive\EdCC\CS 115\Lab 2\Lab 2 - Payroll Calculator\Lab 2 - Payroll Calculator\obj\Debug\Lab_2___Payroll_Calculator.Form1.resources
+C:\Users\Carl Setzer\OneDrive\EdCC\CS 115\Lab 2\Lab 2 - Payroll Calculator\Lab 2 - Payroll Calculator\obj\Debug\Lab_2___Payroll_Calculator.Resources.resources
+C:\Users\Carl Setzer\OneDrive\EdCC\CS 115\Lab 2\Lab 2 - Payroll Calculator\Lab 2 - Payroll Calculator\obj\Debug\Lab 2 - Payroll Calculator.vbproj.GenerateResource.cache
+C:\Users\Carl Setzer\OneDrive\EdCC\CS 115\Lab 2\Lab 2 - Payroll Calculator\Lab 2 - Payroll Calculator\obj\Debug\Lab 2 - Payroll Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\Carl Setzer\OneDrive\EdCC\CS 115\Lab 2\Lab 2 - Payroll Calculator\Lab 2 - Payroll Calculator\bin\Debug\Lab 2 - Payroll Calculator.exe.config
+C:\Users\Carl Setzer\OneDrive\EdCC\CS 115\Lab 2\Lab 2 - Payroll Calculator\Lab 2 - Payroll Calculator\bin\Debug\Lab 2 - Payroll Calculator.exe
+C:\Users\Carl Setzer\OneDrive\EdCC\CS 115\Lab 2\Lab 2 - Payroll Calculator\Lab 2 - Payroll Calculator\bin\Debug\Lab 2 - Payroll Calculator.pdb
+C:\Users\Carl Setzer\OneDrive\EdCC\CS 115\Lab 2\Lab 2 - Payroll Calculator\Lab 2 - Payroll Calculator\bin\Debug\Lab 2 - Payroll Calculator.xml
+C:\Users\Carl Setzer\OneDrive\EdCC\CS 115\Lab 2\Lab 2 - Payroll Calculator\Lab 2 - Payroll Calculator\obj\Debug\Lab 2 - Payroll Calculator.exe
+C:\Users\Carl Setzer\OneDrive\EdCC\CS 115\Lab 2\Lab 2 - Payroll Calculator\Lab 2 - Payroll Calculator\obj\Debug\Lab 2 - Payroll Calculator.xml
+C:\Users\Carl Setzer\OneDrive\EdCC\CS 115\Lab 2\Lab 2 - Payroll Calculator\Lab 2 - Payroll Calculator\obj\Debug\Lab 2 - Payroll Calculator.pdb

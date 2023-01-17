@@ -1,0 +1,12 @@
+C:\Users\Carl Setzer\source\repos\Chap 4 work\Chap 4 work\bin\Debug\Chap 4 work.exe.config
+C:\Users\Carl Setzer\source\repos\Chap 4 work\Chap 4 work\bin\Debug\Chap 4 work.exe
+C:\Users\Carl Setzer\source\repos\Chap 4 work\Chap 4 work\bin\Debug\Chap 4 work.pdb
+C:\Users\Carl Setzer\source\repos\Chap 4 work\Chap 4 work\bin\Debug\Chap 4 work.xml
+C:\Users\Carl Setzer\source\repos\Chap 4 work\Chap 4 work\obj\Debug\Chap 4 work.vbprojAssemblyReference.cache
+C:\Users\Carl Setzer\source\repos\Chap 4 work\Chap 4 work\obj\Debug\Chap_4_work.Form1.resources
+C:\Users\Carl Setzer\source\repos\Chap 4 work\Chap 4 work\obj\Debug\Chap_4_work.Resources.resources
+C:\Users\Carl Setzer\source\repos\Chap 4 work\Chap 4 work\obj\Debug\Chap 4 work.vbproj.GenerateResource.cache
+C:\Users\Carl Setzer\source\repos\Chap 4 work\Chap 4 work\obj\Debug\Chap 4 work.vbproj.CoreCompileInputs.cache
+C:\Users\Carl Setzer\source\repos\Chap 4 work\Chap 4 work\obj\Debug\Chap 4 work.exe
+C:\Users\Carl Setzer\source\repos\Chap 4 work\Chap 4 work\obj\Debug\Chap 4 work.xml
+C:\Users\Carl Setzer\source\repos\Chap 4 work\Chap 4 work\obj\Debug\Chap 4 work.pdb

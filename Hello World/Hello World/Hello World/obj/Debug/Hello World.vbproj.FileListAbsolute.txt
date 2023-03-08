@@ -1,0 +1,12 @@
+C:\Users\Carl Setzer\OneDrive\EdCC\CIS 125\Hello World\Hello World\Hello World\bin\Debug\Hello World.exe.config
+C:\Users\Carl Setzer\OneDrive\EdCC\CIS 125\Hello World\Hello World\Hello World\bin\Debug\Hello World.exe
+C:\Users\Carl Setzer\OneDrive\EdCC\CIS 125\Hello World\Hello World\Hello World\bin\Debug\Hello World.pdb
+C:\Users\Carl Setzer\OneDrive\EdCC\CIS 125\Hello World\Hello World\Hello World\bin\Debug\Hello World.xml
+C:\Users\Carl Setzer\OneDrive\EdCC\CIS 125\Hello World\Hello World\Hello World\obj\Debug\Hello World.vbprojAssemblyReference.cache
+C:\Users\Carl Setzer\OneDrive\EdCC\CIS 125\Hello World\Hello World\Hello World\obj\Debug\Hello_World.Form1.resources
+C:\Users\Carl Setzer\OneDrive\EdCC\CIS 125\Hello World\Hello World\Hello World\obj\Debug\Hello_World.Resources.resources
+C:\Users\Carl Setzer\OneDrive\EdCC\CIS 125\Hello World\Hello World\Hello World\obj\Debug\Hello World.vbproj.GenerateResource.cache
+C:\Users\Carl Setzer\OneDrive\EdCC\CIS 125\Hello World\Hello World\Hello World\obj\Debug\Hello World.vbproj.CoreCompileInputs.cache
+C:\Users\Carl Setzer\OneDrive\EdCC\CIS 125\Hello World\Hello World\Hello World\obj\Debug\Hello World.exe
+C:\Users\Carl Setzer\OneDrive\EdCC\CIS 125\Hello World\Hello World\Hello World\obj\Debug\Hello World.xml
+C:\Users\Carl Setzer\OneDrive\EdCC\CIS 125\Hello World\Hello World\Hello World\obj\Debug\Hello World.pdb
